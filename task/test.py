@@ -16,3 +16,6 @@ print(sStr2)
 for a in range(1, 5):
     f = ':' + '' + '%s' % ('.' * a)
     print(f)
+
+a=[1,2,3,4]
+print(a[1:])
